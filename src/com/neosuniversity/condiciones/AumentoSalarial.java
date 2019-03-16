@@ -1,4 +1,4 @@
-package com.neosuniversity.condiciones;
+﻿package com.neosuniversity.condiciones;
 
 public class AumentoSalarial {
 
@@ -17,7 +17,7 @@ Muestre en pantalla el incremento que se aplicó y el salario final.
     public static void main(String[] args) {
 
         double salario = 3500; // pesos mx
-        int anios = 15;
+        int anios = 15; //annos
         double incremento;
 
         if ( anios > 20 ){
